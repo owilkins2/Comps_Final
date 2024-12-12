@@ -1,0 +1,6 @@
+
+agentpy==0.1.5
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.1.1
+seaborn==0.12.2
